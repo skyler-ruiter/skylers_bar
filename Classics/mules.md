@@ -1,5 +1,7 @@
 ## Mules
 
+<img src="../Images/moscow-mule-ginger-beer-2.jpg" alt="Moscow Mule" height="400">
+
 ### Ingredients:
 
 * 2oz Liqour
