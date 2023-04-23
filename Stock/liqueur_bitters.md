@@ -1,4 +1,4 @@
-## Liqour Stock:
+## Liqueur Stock:
 
 #### Date: *April 23rd, 2023*
 
