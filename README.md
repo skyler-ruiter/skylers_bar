@@ -8,3 +8,13 @@ Notes on the recipes:
     * Unless its demerara syrup which is rich at 2:1 sugar to water
 * I use a 2oz pour for most drinks
 * Sources for drinks may be unknown or from a variety of sources
+
+
+### Resources:
+* [Liqour.com](https://www.liquor.com/)
+* [IBA](https://iba-world.com/)
+* [CocktailDB](https://www.cocktaildb.com/)
+* *I'm Just Here For The Drinks* by Sother Teague
+* *The Craft of the Cocktail* by Dale DeGroff
+* *The Art of Mixology* by Food Loves
+
