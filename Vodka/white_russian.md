@@ -1,6 +1,6 @@
 # White Russian
 
-## Rating: ★★★★☆
+## Rating: ★★★☆☆
 
 <br>
 
@@ -12,13 +12,16 @@
 
 ### Ingredients:
 
-* 2oz Liqour
-* *(Garnish)* 
+* 2oz Vodka
+* 1oz Kahlua
+* 1oz Heavy Cream
+* *(Garnish)* Nothing
 
 ---
 
 ### Directions:
-1. 
+1. Pour vodka and kahlua into a rocks glass with a big ice cube
+2. Top with heavy cream
 ---
 
 #### Notes:
