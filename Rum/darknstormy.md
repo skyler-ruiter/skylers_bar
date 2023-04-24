@@ -15,7 +15,7 @@
 * 2oz Goslings Black Seal Rum
 * 0.5oz Lime Juice
 * Ginger Beer
-* *(Garnish)* Lime Wedge/ Lime Wheel
+* *(Garnish)* Lime Wedge / Lime Wheel / Candied Ginger
 
 ---
 

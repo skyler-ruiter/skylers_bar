@@ -19,4 +19,17 @@
 * *The Art of Mixology* by Food Loves
 
 ### Favorite Drinks:
-1. figure it out later
+1. Sloe Gin Fizz / G&T
+2. Dark 'n' Stormy / London Mule
+3. Old Fashioned
+4. Negroni
+5. Daiquiri
+
+
+### Repo Todo:
+- [ ] Add more drinks
+- [ ] Change pictures for my own
+- [ ] Add glassware to stock
+- [ ] Add garnishes to stock
+- [ ] Fill out wishlist and shopping list
+- [ ] Make a program to parse/interact with this repo
