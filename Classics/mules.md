@@ -1,4 +1,4 @@
-# Mule
+# Mules
 
 ## Rating: ★★★★☆
 ## Difficulty: ★☆☆☆☆
@@ -20,7 +20,7 @@
     * Tequila for Mexican Mule
 * 0.75oz Fresh **Lime Juice**
 * **Ginger Beer**
-* *(Garnish)* Lime Wedge/Mint/Candied Ginger
+* *(Garnish)* Lime Wedge / Mint / Candied Ginger
 
 ---
 
@@ -38,3 +38,4 @@
 
 ### Source:
 * [Liquor.com](https://www.liquor.com/recipes/moscow-mule/)
+* Sother Teauge - *I'm Just Here for the Drinks* (Page 21)
