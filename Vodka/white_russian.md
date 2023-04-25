@@ -1,6 +1,7 @@
 # White Russian
 
 ## Rating: ★★★☆☆
+## Difficulty: ☆☆☆☆☆
 
 <br>
 

@@ -1,6 +1,7 @@
 # Aperol Spritz
 
 ## Rating: ★★★★☆
+## Difficulty: ☆☆☆☆☆
 
 <br>
 

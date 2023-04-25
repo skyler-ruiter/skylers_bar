@@ -1,6 +1,7 @@
 # Mule
 
 ## Rating: ★★★★☆
+## Difficulty: ★☆☆☆☆
 
 <br>
 

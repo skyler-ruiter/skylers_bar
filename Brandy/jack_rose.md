@@ -1,6 +1,7 @@
 # Jack Rose
 
 ## Rating: ★★★★☆
+## Difficulty: ☆☆☆☆☆
 
 <br>
 

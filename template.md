@@ -1,6 +1,7 @@
 # Drink Name Here
 
 ## Rating: ★★★★☆
+## Difficulty: ☆☆☆☆☆
 
 <br>
 

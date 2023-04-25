@@ -1,6 +1,7 @@
 # Dark 'n' Stormy
 
 ## Rating: ★★★★★
+## Difficulty: ★☆☆☆☆
 
 <br>
 

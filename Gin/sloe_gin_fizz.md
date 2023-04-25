@@ -1,6 +1,7 @@
 # Sloe Gin Fizz
 
 ## Rating: ★★★★★
+## Difficulty: ★★☆☆☆
 
 <br>
 

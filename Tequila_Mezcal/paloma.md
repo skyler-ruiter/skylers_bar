@@ -1,6 +1,7 @@
 # Paloma
 
 ## Rating: ★★★★☆
+## Difficulty: ☆☆☆☆☆
 
 <br>
 

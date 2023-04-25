@@ -1,6 +1,7 @@
 # Citrus Cream (Mocktail)
 
 ## Rating: ★★★★☆
+## Difficulty: ☆☆☆☆☆
 
 <br>
 

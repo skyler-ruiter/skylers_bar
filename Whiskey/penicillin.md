@@ -1,6 +1,7 @@
 i# Penicillin
 
 ## Rating: ★★★★☆
+## Difficulty: ☆☆☆☆☆
 
 <br>
 

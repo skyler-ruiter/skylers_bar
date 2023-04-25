@@ -1,6 +1,7 @@
 # Pendennis Club
 
 ## Rating: ★★★★☆
+## Difficulty: ☆☆☆☆☆
 
 <br>
 
