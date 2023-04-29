@@ -14,7 +14,10 @@
 ### Ingredients:
 
 * 2oz Liqour
+##
 * *(Garnish)* 
+* *(Ice)* 
+* *(Glass)*
 
 ---
 
