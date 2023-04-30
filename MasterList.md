@@ -4,7 +4,8 @@
 
 ### *Classics*
 
-* [Moscow Mule](/Classics/mules.md)
+* [Moscow Mule](/Vodka/mules.md)
+* [Long Island Iced Tea](/Mixed_Libations/long_island_iced_tea.md)
 
 ### Gin
 
@@ -13,6 +14,7 @@
 ### Vodka
 
 * [White Russian](/Vodka/white_russian.md)
+* [Screaming Orgasm](/Vodka/screaming_orgasm.md)
 
 ### Whiskey
 
@@ -25,6 +27,7 @@
 ### Rum
 
 * [Dark n Stormy](/Rum/dark_n_stormy.md)
+* [Jungle Bird](/Rum/jungle_bird.md)
 
 ### Brandy
 
