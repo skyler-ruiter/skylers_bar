@@ -5,7 +5,7 @@
 
 <br>
 
-<img src="../Images/" alt="" height="400">
+<img src="../Images/aperol_spritz.jpg" alt="" height="400">
 
 <br>
 
@@ -31,7 +31,7 @@
 ---
 
 #### Notes:
-> It's an apertif so its great for before dinner and with dinner to keep your appetite up. It's also very refreshing and light making it great for a summer drink as well. The prosecco takes front and center so you should hopefully already enjoy that but I use this is a tool to get accustumed to the Aperol flavors. Since the bitterness of european liqueurs can be a bit much for some people, this is a great way to ease into it.
+> It's an apertif so its great for before dinner and with dinner to keep your appetite up. It's also very refreshing and light making it great for a summer drink as well. The prosecco takes front and center so you should hopefully already enjoy that but I use this is a tool to get accustumed to the Aperol flavors. Since the bitterness of european liqueurs can be a bit much for some people, this is a great way to ease into it. Not to mention it has a fantastic color!
 
 ---
 
