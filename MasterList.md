@@ -28,6 +28,7 @@
 
 * [Dark n Stormy](/Rum/dark_n_stormy.md)
 * [Jungle Bird](/Rum/jungle_bird.md)
+* [Ocean Breeze](/Rum/ocean_breeze.md)1
 
 ### Brandy
 
