@@ -10,6 +10,7 @@
 ### Gin
 
 * [Sloe Gin Fizz](/Gin/sloe_gin_fizz.md)
+* [Bee`s Knees](/Gin/bees_knees.md)
 
 ### Vodka
 
