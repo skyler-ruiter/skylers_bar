@@ -24,6 +24,7 @@
 ### Tequila / Mezcal
 
 * [Paloma](/Tequila/paloma.md)
+* [Margarita](/Tequila/margarita.md)
 
 ### Rum
 
