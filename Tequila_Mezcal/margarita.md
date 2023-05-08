@@ -31,9 +31,10 @@
 ---
 
 #### Notes:
-> Yeah I'm not a huge fan since I don't like tequila very much but it's a classic and the first few sips are genuinly good. If you're a tequila fan then absolutely this is an awesome cocktail. However it really does need fresh and quality ingredients since this cocktail is very dependent on their quality since there are only 4 ingredients. 
+> Yeah I'm not a huge fan since I don't like tequila very much but it's a classic and the first few sips are genuinly good. If you're a tequila fan then absolutely this is an awesome cocktail. However it really does need fresh and quality ingredients since this cocktail is very dependent on their quality since there are only 4 ingredients. Teague also has a version with the tequila and just 1oz lime and 0.75 cointreau which I think is also worth trying!
 
 ---
 
 ### Source:
 * [Liquor.com](https://www.liquor.com/recipes/margarita/)
+* *I'm Just Here for the Drinks* by Sother Teague (Page 150)
