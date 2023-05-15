@@ -11,6 +11,8 @@
 
 * [Sloe Gin Fizz](/Gin/sloe_gin_fizz.md)
 * [Bee`s Knees](/Gin/bees_knees.md)
+* [Gin Daisy](/Gin/gin_daisy.md)
+* [Strawberry Aperol Sour](/Gin/strawberry_aperol_sour.md)
 
 ### Vodka
 
@@ -30,7 +32,9 @@
 
 * [Dark n Stormy](/Rum/dark_n_stormy.md)
 * [Jungle Bird](/Rum/jungle_bird.md)
-* [Ocean Breeze](/Rum/ocean_breeze.md)1
+* [Ocean Breeze](/Rum/ocean_breeze.md)
+* [Hawaiian Sunset](/Rum/hawaiian_sunset.md)
+* [Blue Hawiian](/Rum/blue_hawiian.md)
 
 ### Brandy
 
