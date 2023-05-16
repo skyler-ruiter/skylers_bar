@@ -36,6 +36,7 @@
 * [Ocean Breeze](/Rum/ocean_breeze.md)
 * [Hawaiian Sunset](/Rum/hawaiian_sunset.md)
 * [Blue Hawiian](/Rum/blue_hawiian.md)
+* [Rum Flip](/Rum/rum_flip.md)
 
 ### Brandy
 
