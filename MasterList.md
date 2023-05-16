@@ -13,6 +13,7 @@
 * [Bee`s Knees](/Gin/bees_knees.md)
 * [Gin Daisy](/Gin/gin_daisy.md)
 * [Strawberry Aperol Sour](/Gin/strawberry_aperol_sour.md)
+* [Pink & Tonic](/Gin/pink_n_tonic.md)
 
 ### Vodka
 
