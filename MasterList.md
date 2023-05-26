@@ -14,6 +14,7 @@
 * [Gin Daisy](/Gin/gin_daisy.md)
 * [Strawberry Aperol Sour](/Gin/strawberry_aperol_sour.md)
 * [Pink & Tonic](/Gin/pink_n_tonic.md)
+* [French 75](/Gin/french75.md)
 
 ### Vodka
 
