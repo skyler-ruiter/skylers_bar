@@ -38,6 +38,8 @@
 * [Hawaiian Sunset](/Rum/hawaiian_sunset.md)
 * [Blue Hawiian](/Rum/blue_hawiian.md)
 * [Rum Flip](/Rum/rum_flip.md)
+* [Strawberry Daiquiri](/Rum/strawberry_daiquiri.md)
+* [Bahama Mama](/Rum/bahama_mama.md)
 
 ### Brandy
 
