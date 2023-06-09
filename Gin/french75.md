@@ -5,7 +5,7 @@
 
 <br>
 
-<img src="../Images/frech75.jpg" alt="" height="400">
+<img src="../Images/french75.jpg" alt="" height="400">
 
 <br>
 
