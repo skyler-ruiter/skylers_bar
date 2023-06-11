@@ -40,6 +40,7 @@
 * [Rum Flip](/Rum/rum_flip.md)
 * [Strawberry Daiquiri](/Rum/strawberry_daiquiri.md)
 * [Bahama Mama](/Rum/bahama_mama.md)
+* [Grand Slam](/Rum/grand_slam.md)
 
 ### Brandy
 
