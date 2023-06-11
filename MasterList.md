@@ -24,6 +24,7 @@
 ### Whiskey
 
 * [Penicillin](/Whiskey/penicillin.md)
+* [Amaretto Sour](/Whiskey/amaretto_sour.md)
 
 ### Tequila / Mezcal
 
