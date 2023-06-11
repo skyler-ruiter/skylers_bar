@@ -18,6 +18,7 @@
 * 1oz Lemon Juice
 * 1 Teaspoon Maple Syrup
 * 1 Egg White
+* 2 Dashes Angostura Bitters
 ##
 * *(Garnish)* Brandied Cherries / Lemon Twist
 * *(Ice)* Cubed
